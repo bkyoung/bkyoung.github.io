@@ -3,8 +3,9 @@ title: Potato Soup
 layout: recipe
 author: Brandon Young
 ---
-
 Here is one of the recipes I brought to the relationship already perfected.  It's great for a cool fall day.  It's wonderful in the dead of winter.  We even eat it when it's 100 degrees outside (and too hot to stand in front of an open fire to grill!).  It's just awesome.
+
+![Potato Soup]({{ site.url }}/images/potatosoup.jpg)
 
 ===
 ### Ingredients
