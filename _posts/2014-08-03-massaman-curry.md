@@ -20,6 +20,7 @@ As usual, we'd like to note that using fresh ingredients makes a big difference 
   * 1/2 teaspoon cayenne
   * 1/2 teaspoon turmeric
   * 2 teaspoons salt
+  * 1 tablespoon sugar
   * 2 cups canned low-sodium chicken broth or homemade stock
   * 1 14 oz can unsweetened coconut milk or heavy cream
   * 1 pound boiling potatoes (about 3), peeled and cut into 1/2-inch pieces
