@@ -17,7 +17,7 @@ As usual, we'd like to note that using fresh ingredients makes a big difference 
   * 2 teaspoons fresh ginger
   * 2 teaspoons Chinese five spice powder
   * 2 teaspoons ground cumin
-  * 1/2 teaspoon cayenne
+  * 1/2 teaspoon cayenne (OPTIONAL.  We use Sriracha to personal taste instead)
   * 1/2 teaspoon turmeric
   * 2 teaspoons salt
   * 1 tablespoon sugar
