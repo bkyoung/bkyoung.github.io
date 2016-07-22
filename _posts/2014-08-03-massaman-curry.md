@@ -10,7 +10,6 @@ As usual, we'd like to note that using fresh ingredients makes a big difference 
 ![Massaman Curry]({{ site.url }}/images/massaman.jpg)
 
 ### Ingredients
-===
   * 2 tablespoons cooking oil
   * 1 onion
   * 4 cloves garlic
@@ -29,11 +28,9 @@ As usual, we'd like to note that using fresh ingredients makes a big difference 
   * 6 tablespoons chopped cilantro 
 
 ### Preparation
-===
   * Mince onion, garlic, and ginger
   * Peel and cube potatoes
   * Cube chicken
 
 ### Instructions
-===
 Sautee onion, ginger, and garlic in a deep pot on medium-high heat for about 5 minutes, until onion is translucent.  Add all dry spices and stir until aromatic, about 1 minute.  Pour in chicken broth and coconut milk.  Add chicken, potatoes, and peanut butter.  Bring to a boil over medium heat and cook for 20 minutes, or until chicken is done and potatoes are soft.  Stir in cilantro.  Serve over rice.  Garnish with peanuts.  Accent with garlic chili sauce or spicy peanut sauce.

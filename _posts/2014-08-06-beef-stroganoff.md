@@ -10,7 +10,6 @@ Kris here: OK, as a kid, I hated mushrooms, so my dad was kind to me and left th
 ![Beef Stroganoff]({{ site.url }}/images/stroganoff.jpg)
 
 ### Ingredients
-===
  * 4 tablespoons butter
  * 3 cloves garlic
  * 1 medium onion
@@ -26,7 +25,6 @@ Kris here: OK, as a kid, I hated mushrooms, so my dad was kind to me and left th
  * 16 oz sour cream
 
 ### Preparation
-===
  * Start the rice cooking.  In a rice cooker it takes about 45 - 50 mins.
  * Finely chop the onion and garlic.
  * Clean the mushrooms.
@@ -34,5 +32,4 @@ Kris here: OK, as a kid, I hated mushrooms, so my dad was kind to me and left th
  * Combine the flour and beef into a 1 qt freezer bag and shake until the meat is evenly and completely coated in flour. Set aside.
 
 ### Instructions
-===
 Sautee onion, garlic, and mushrooms in butter until the onion and garlic is soft and translucent (about 5 mins). Pour the entire contents of the flour and meat into the skillet and sautee until the meat is browned, with no pink showing (5 - 10 mins). Add the beef broth, worchestershire sauce, salt, and pepper to the skillet. Simmer at high heat for 10 - 15 mins (I usually go 15 mins -- it makes the meat more tender) until the sauce is the consistency of a thick gravy. Add the sour cream and wine, stir well, and cook for an additional 5 minutes; until the mixture just begins to boil. Serve over wild rice. 

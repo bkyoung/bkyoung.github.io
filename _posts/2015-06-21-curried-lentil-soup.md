@@ -6,7 +6,6 @@ author: Brandon Young
 
 
 ### Ingredients
-===
  * 1 Cup Red Lentils, dry
  * 1 Onion, diced
  * 2 Cloves Garlic, minced 
@@ -20,7 +19,6 @@ author: Brandon Young
  * Olive Oil, Ghee
 
 ### Instructions
-===
  * In a large pot, heat oil and ghee and then sauté the onions and garlic on medium high heat until onions are translucent, about 5 mins.
  * Add curry powder and salt, stir for a few seconds.
  * Add chicken stock and remaining ingredients.

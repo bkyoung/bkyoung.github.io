@@ -8,7 +8,6 @@ This recipe brings back childhood memories of one autumn evening when we had thi
 ![Beef and Barley Stew]({{ site.url }}/images/beef-and-barley.jpg)
 
 ### Ingredients
-===
  * 1 lb stew meat
  * 1 small-medium onion
  * 2 cloves garlic
@@ -23,7 +22,6 @@ This recipe brings back childhood memories of one autumn evening when we had thi
  * 2 teaspoons rosemary
 
 ### Preparation
-===
  * slice meat into small bite sized strips
  * mince onion
  * mince garlic
@@ -31,7 +29,6 @@ This recipe brings back childhood memories of one autumn evening when we had thi
  * peel and dice carrots into small pieces
 
 ### Instructions
-===
 Sautee onion, garlic, and stew meat in stew pot until meat is browned.  Add beef  broth, tomatoes (with water), salt, pepper, rosemary, thyme.  Bring to a boil.  Add barley.  Turn heat down to medium and cover.  Simmer, stirring frequently (every few minutes) for 20 minutes.  Add potatoes and carrots (and more broth if needed).  Simmer for about 30 more minutes, until potatoes and carrots are soft.
 
 Serve with a crusty artisan whole grain bread.

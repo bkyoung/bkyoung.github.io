@@ -6,7 +6,6 @@ author: Brandon Young
 We tried several recipes before we settled on this outstanding rendition of black bean soup.  You can use two cans of black beans, or one can of black beans and one can of white navy beans.  In fact, this is normally how we cook it.
 
 ### Ingredients
-===
   * 1 small onion
   * 4 cloves garlic
   * 4 tablespoons olive oil
@@ -25,11 +24,9 @@ We tried several recipes before we settled on this outstanding rendition of blac
   * chopped tomatoes
 
 ### Preparation
-===
   * Chop onions and garlic
   * Chop carrots
   * Chop celery
 
 ### Instructions
-===
 Sautee the onions, garlic, celery, and carrots in olive oil on high heat, for 5 mins or until onions are soft and translucent.  Add both cans of beans, 5 cups of chicken broth, rice, thyme, chili powder, cumin, and sage.  Boil on high for 45 mins or until rice is soft.  You may add additional chicken broth to adjust thickness of soup to desired.  Garnish with tomatoes and cilantro.  Try it with cheese and sour cream, too.
