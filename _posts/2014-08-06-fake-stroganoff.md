@@ -9,7 +9,6 @@ Makes about 4 servings.
 ![Fake Stroganoff]({{ site.url }}/images/fakestroganoff.jpg)
 
 ### Ingredients
-===
  * 1 lb ground beef</li>
  * 1 10.5 oz can Cream of Mushroom</li>
  * 1 Cup milk</li>
@@ -20,9 +19,7 @@ Makes about 4 servings.
  * 1 Cup sour cream</li>
 
 ### Preparation
-===
  * Begin cooking the rice per label instructions</li>
 
 ### Instructions
-===
 While rice is cooking, brown ground beef in a skillet.  Add butter, cream of mushroom, salt, pepper, milk.  Simmer until 5 mins before rice is finished, stirring frequently (about 20 - 30 mins).  Add sour cream.  Stir constantly until mixture begins to bubble (about 5 mins).  Add rice to bowl and mix desired amount of sauce in.  Goes well with a green salad.
