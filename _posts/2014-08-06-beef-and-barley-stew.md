@@ -9,15 +9,15 @@ This recipe brings back childhood memories of one autumn evening when we had thi
 
 ### Ingredients
  * 1 lb stew meat
- * 1 small-medium onion
+ * 1 medium onion
  * 2 cloves garlic
  * 1 1/2 cups pearl barley
  * 1/2 lb carrots
  * 2 large potatoes
- * 1 14 oz can diced tomatoes (undrained)
+ * 2 14 oz cans diced tomatoes (undrained)
  * 8 cups beef broth
  * 2 teaspoons salt
- * 1 tablespoon ground black pepper
+ * 2 teaspoons ground black pepper
  * 2 teaspoons thyme
  * 2 teaspoons rosemary
 
@@ -29,6 +29,10 @@ This recipe brings back childhood memories of one autumn evening when we had thi
  * peel and dice carrots into small pieces
 
 ### Instructions
-Sautee onion, garlic, and stew meat in stew pot until meat is browned.  Add beef  broth, tomatoes (with water), salt, pepper, rosemary, thyme.  Bring to a boil.  Add barley.  Turn heat down to medium and cover.  Simmer, stirring frequently (every few minutes) for 20 minutes.  Add potatoes and carrots (and more broth if needed).  Simmer for about 30 more minutes, until potatoes and carrots are soft.
+1. Sautee onion, garlic, and stew meat in stew pot until meat is browned.  
+1. Add beef  broth, tomatoes (with water), salt, pepper, rosemary, thyme.  Bring to a boil.  
+1. Add barley.  Turn heat down to medium and cover.  
+1. Simmer, stirring frequently (every few minutes) for 20 minutes.  
+1. Add potatoes and carrots (and more broth if needed).  Simmer for about 20 - 30 minutes more, until potatoes and carrots are soft.
 
 Serve with a crusty artisan whole grain bread.
