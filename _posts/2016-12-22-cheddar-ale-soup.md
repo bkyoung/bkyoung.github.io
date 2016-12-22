@@ -7,6 +7,8 @@ author: Brandon Young
 Best cheese soup on the planet.  Found on [Lawrence Journal World](http://m.ljworld.com/news/2010/apr/05/free-state-classic-downtown-brewery-shares-its-leg/?templates=mobile).
 
 ![Cheddar Ale Soup](http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2010/04/04/mgo-cheddar-ale-soup-5k-4-5_t240.jpg?9b075e176a263354460210e5f64f6db9d4623575)
+
+
 Serves 6-8
 
 ### Ingredients
