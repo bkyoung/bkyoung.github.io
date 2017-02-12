@@ -3,32 +3,31 @@ title: Seafood Chowder
 layout: recipe
 author: Brandon Young
 ---
-I tried several recipes before settlijng on this one.
+I tried several recipes before settling on this one.
 
 ### Ingredients
   * 1 Tbsp olive oil
   * 1 teaspoon butter
-  * 4 slices bacon
-  * ½ – 1 can diced tomatoes or 3 large tomatoes finely diced
-  * 2 tablespoons tomato paste
-  * 2 medium yellow onions, chopped (about 2 cups)
-  * 2 cloves garlic
-  * 2 stalks celery
-  * ½ cup dry white wine, or Sherry, or Beer
-  * 3 large Yukon Gold potatoes (about 1¼ pounds), peeled, cut into ¾-inch cubes
-  * 2 cups clam juice
+  * 2 slices bacon
+  * 1 can tomato sauce (6oz)
+  * 1 medium yellow onion, chopped (about 1 cups)
+  * 1 clove garlic
+  * 1 stalk celery
+  * 1/4 cup dry white wine, or Sherry, or Beer
+  * 2 large potatoes (about 3/4 pounds), peeled, cut into ¾-inch cubes
+  * 1 cups clam juice
   * 1 bay leaf
-  * 1 teaspoon dried thyme
-  * ½ teaspoon sage
-  * 2 teaspoon salt
-  * 1 teaspoon freshly ground black pepper
-  * 2 teaspoon Old Bay
-  * 1½ lbs cod, fillets cut into 2-inch pieces
+  * 1/2 teaspoon dried thyme
+  * 1/4 teaspoon sage
+  * 1 teaspoon salt
+  * 1/2 teaspoon freshly ground black pepper
+  * 1 teaspoon Old Bay
+  * 3/4 lbs cod, fillets cut into 2-inch pieces
   * 4 oz can lump crab meat
   * 4 oz can small shrimp
   * 4 oz can clam pieces
-  * 1½ to 2 cups heavy cream
-  * ½ cup flour or corn starch
+  * 1 cup heavy cream
+  * 1/4 cup flour or corn starch
 
 
 ### Preparation
