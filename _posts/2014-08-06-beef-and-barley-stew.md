@@ -7,19 +7,20 @@ This recipe brings back childhood memories of one autumn evening when we had thi
 
 ![Beef and Barley Stew]({{ site.url }}/images/beef-and-barley.jpg)
 
+Makes about 6 servings
 ### Ingredients
- * 1 lb stew meat
- * 1 medium onion
- * 2 cloves garlic
- * 1 1/2 cups pearl barley
- * 1/2 lb carrots
- * 2 large potatoes
- * 2 14 oz cans diced tomatoes (undrained)
- * 8 cups beef broth
- * 2 teaspoons salt
- * 2 teaspoons ground black pepper
- * 2 teaspoons thyme
- * 2 teaspoons rosemary
+ * 1/2 lb stew meat
+ * 1/2 medium onion
+ * 1 clove garlic
+ * 3/4 cups pearl barley
+ * 1/4 lb carrots
+ * 1 large potato
+ * 1 14 oz cans diced tomatoes (undrained)
+ * 4 cups beef broth
+ * 1 teaspoons salt
+ * 1 teaspoons ground black pepper
+ * 1 teaspoons thyme
+ * 1 teaspoons rosemary
 
 ### Preparation
  * slice meat into small bite sized strips
